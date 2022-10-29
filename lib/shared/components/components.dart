@@ -73,7 +73,6 @@ class _ButtonContainerState extends State<ButtonContainer> {
     return InkWell(
       enableFeedback: true,
       child: Listener(
-
         onPointerDown: _onPointerDown,
         onPointerUp: _onPointerUp,
         child: Padding(
