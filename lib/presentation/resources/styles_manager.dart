@@ -8,7 +8,7 @@ TextStyle _getTextStyle(double fontSize, FontWeight fontWeight, Color color) {
     fontFamily: FontConstants.fontFamily,
     color: color,
     fontWeight: fontWeight,
-    height: 1.3,
+    height: 1.2,
   );
 }
 

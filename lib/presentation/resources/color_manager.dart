@@ -4,6 +4,13 @@ class ColorManager{
   static const Color primary = Color(0xFF2894FD);
   static const Color colorDark = Color(0xFF374352);
   static const Color colorLight = Color(0xFFe6eeff);
+  static const Color colorLightShadowUp = Color(0xffd7e2fd);
+  // static const Color colorLightShadowDown = Color(0xffeaf1ff);
+  static const Color colorLightShadowDown = Color(0xfff5f9ff);
+  static const Color numberButtonColor = Color(0xFF37474F);
+  static const Color textColorBlueGrey200 = Color(0xFFB0BEC5);
+  static const Color textColorBlueGrey600 = Color(0xFF546E7A);
+  static const Color textColorBlueGrey300 = Color(0xFF90A4AE);
 
 
 }

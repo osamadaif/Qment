@@ -1,4 +1,4 @@
 
 
 bool isPressed = false;
-double? calcFontSize ;
+double? calcFontSize  ;
